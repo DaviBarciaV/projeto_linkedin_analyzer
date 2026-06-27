@@ -68,6 +68,3 @@ replay_pid*
 
 # Mantém o Gradle wrapper versionado (precisa vir DEPOIS de *.jar)
 !gradle/wrapper/gradle-wrapper.jar
-
-### Anthropic Claude ###
-.claude/
